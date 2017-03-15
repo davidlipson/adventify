@@ -1,0 +1,60 @@
+#playlists{
+    width: 500px;
+    display: block;
+    margin: auto;
+    padding-top: 60px;
+}
+
+#publicDescription{
+	resize: vertical;
+}
+
+.createPlaylistButton{
+    background-color: rgb(30,215,96) !important;
+    border-color: rgb(30,215,96) !important;
+}
+
+.spotDiv{
+    display: block;
+    margin: 15px auto auto 23px;
+    width: 400px;
+    height: 80px;
+}
+
+.addButton{
+    float: left;
+    width: 50px;
+    height: 80px;
+    text-align: center;
+    padding-top: 28px;
+    border-radius: 3px;
+    color: rgb(40,40,40);
+}
+
+.addButton:hover { 
+    color: rgb(30,215,96);
+}
+
+.spotFrame{
+	float: right;
+	border-radius: 3px;
+}
+
+h1{
+	text-align: center;
+}
+
+html, body{
+        color: rgb(30,215,96);
+	font-family: Montserrat !important;
+}
+
+#track iframe{
+	border-radius: 3px !important;
+	margin: 20px auto !important;
+	display: block !important;
+}
+
+#days{
+	font-size: 500px;
+}
